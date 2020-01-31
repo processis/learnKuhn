@@ -7,12 +7,12 @@ create new Repository learnKuhn
 * copy the HTTPS url 
 * Note: the GitHUB repository must be 'empty' to start
 
-##To push committed files from local GIT
+## To push committed files from local GIT
 * git add *.*
 * git commit
 * git push origin master
 
-##To pull request updates from GitHUB
+## To pull request updates from GitHUB
 * make sure in the same branch
 * git checkout master
 * git pull origin master
