@@ -1,6 +1,7 @@
 ﻿# Steps to create a GitHUB project
 Org , select Processis
 create new Repository learnKuhn
+demo to Shelly on 2020.2.3
 
 ## Steps
 * in Rstudio, create New Project with Version Control, choose git
