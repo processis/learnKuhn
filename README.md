@@ -15,4 +15,5 @@ create new Repository learnKuhn
 ## To pull request updates from GitHUB
 * make sure in the same branch
 * git checkout master
+* ..
 * git pull origin master
