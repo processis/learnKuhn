@@ -16,4 +16,4 @@ create new Repository learnKuhn
 * make sure in the same branch
 * git checkout master
 * ..
-* git pull origin master
+* more description,  git pull origin master
