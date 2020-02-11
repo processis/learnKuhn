@@ -17,3 +17,7 @@ demo to Shelly on 2020.2.3
 * make sure in the same branch
 * git checkout master
 * git pull origin master
+
+>##2020.2.11
+>- rerun Kuhn gen mel U data
+>- then classification (ch 14)
