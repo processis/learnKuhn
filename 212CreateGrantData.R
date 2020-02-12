@@ -55,7 +55,8 @@ if(cores > 1) {
 ## Read in the data in it's raw form. Some of the column headings do
 ## not convert to proper R variable names, so many will contain dots,
 ## such as "Dept.No" instead of "Dept No"
-raw <- read.csv("/media/user/1907USB/2020data/DataKUHN/unimelb_training.csv")
+getwd() # make sure the raw csv is in the data folder under the current project 
+raw <- read.csv("data/unimelb_training.csv")
 
 ## In many cases, missing values in categorical data will be converted
 ## to a value of "Unk"
