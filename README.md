@@ -21,3 +21,7 @@ demo to Shelly on 2020.2.3
 >##2020.2.11
 >- rerun Kuhn gen mel U data
 >- then classification (ch 14)
+
+>##2020.2.12
+>- uploaded 212CreatGrantData.R  //from Kuhn package
+>- uploaded 3 MelU raw data // direct download from kaggle
